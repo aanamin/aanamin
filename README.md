@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://via.placeholder.com/800x200/4a148c/ffffff?text=Banner+Nama+Kamu" alt="Banner Profil" width="100%" />
+  <img src="github-header-banner.png" alt="Banner Profil" width="100%" />
 
   <h1 align="center">Hi, I'm Al-Amin 👋</h1>
   
