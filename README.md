@@ -24,7 +24,7 @@
   <tr>
     <td width="50%">
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=tokyonight" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=aanamin&show_icons=true&theme=tokyonight" width="100%"/>
     </td>
     <td width="50%" valign="top">
       <h3>👨‍💻 Who Am I?</h3>
