@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=180&section=header&text=Al-Amin&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20%26%20Mobile%20Developer%20|%20Information%20Systems%20Graduate&descSize=16&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=180&section=header&text=Al-Amin&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20and%20Mobile%20Developer%20%E2%80%A2%20Information%20Systems%20Graduate&descSize=16&descAlignY=55&descAlign=50" alt="Header Profil" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Web+%26+Mobile+Developer+💻📱;Bridging+Business+Logic+with+Tech+🚀;Always+Learning+New+Things!+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full-Stack+Web+%26+Mobile+Developer+💻📱;Bridging+Business+Logic+with+Tech+🚀;Always+Learning+New+Things!+✨" alt="Typing SVG" />
 </div>
-
 ## 🚀 About Me
 
 <div align="center">
@@ -14,13 +13,13 @@
     </td>
     <td align="left" width="50%" valign="top">
       <h3>👨‍💻 Who Am I?</h3>
-      🎓 **Fresh Graduate** in Information Systems <br>
-      📍 **Universitas Andalas** (GPA: 3.86) <br><br>
-      💻 **Web & Mobile Developer** <br>
+      🎓 <b>Fresh Graduate</b> in Information Systems <br>
+      📍 <b>Universitas Andalas</b> (GPA: 3.86) <br><br>
+      💻 <b>Web & Mobile Developer</b> <br>
       🔥 Passionate about bridging business logic with high-performance solutions. <br><br>
-      🌱 **Currently Learning** <br>
+      🌱 <b>Currently Learning</b> <br>
       ⚡ Kotlin & Android Development <br><br>
-      📍 **Location** <br>
+      📍 <b>Location</b> <br>
       🏔️ Padang City, West Sumatra, Indonesia <br>
     </td>
   </tr>
@@ -54,12 +53,17 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aanamin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanamin&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aanamin&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanamin&layout=compact&langs_count=5&theme=tokyonight" height="180" alt="Top Languages" />
 </div>
+
 <br>
+
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=aanamin&theme=tokyonight)](https://git.io/streak-stats)
+  <a href="https://github.com/aanamin">
+    <img src="https://streak-stats.demolab.com/?user=aanamin&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
@@ -67,9 +71,15 @@
 ## 📫 Let's Connect!
 
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alamin15)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alamin_aan)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aanalamin987@gmail.com)
+  <a href="https://linkedin.com/in/alamin15" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/alamin_aan" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:aanalamin987@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 ---
