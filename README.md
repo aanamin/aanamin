@@ -18,7 +18,7 @@
       💻 <b>Web & Mobile Developer</b> <br>
       🔥 Passionate about bridging business logic with high-performance solutions. <br><br>
       🌱 <b>Currently Learning</b> <br>
-      ⚡ Kotlin & Android Development <br><br>
+      ⚡ .Net<br><br>
       📍 <b>Location</b> <br>
       🏔️ Padang City, West Sumatra, Indonesia <br>
     </td>
