@@ -80,7 +80,7 @@
 
 <div align="center">
   <a href="https://github.com/aanamin">
-    <img src="https://streak-stats.demolab.com/?user=aanamin&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=aanamin" alt="GitHub Streak" />
   </a>
 </div>
 
