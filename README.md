@@ -71,9 +71,9 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aanamin&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=aanamin&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanamin&layout=compact&langs_count=5&theme=tokyonight" height="180" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aanamin&layout=compact&langs_count=5&theme=tokyonight" height="180" alt="Top Languages" />
 </div>
 
 <br>
